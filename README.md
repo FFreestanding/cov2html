@@ -1,5 +1,7 @@
 # cov2html
 
+The function of the `cov2html` tool is to display the code coverage information obtained from the fuzzer in html form
+
 Usage:
 
 ```sh
