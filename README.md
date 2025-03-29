@@ -9,3 +9,9 @@ cargo run -- --input ./data/test_cov.txt --output ./test/ --source /home/xxx/lin
 ```
 
 `data/` contains a sample of test_cov.txt and a coverage_report.html
+
+**Result Screenshot**
+
+![screenshot](./data/image.png)
+
+
